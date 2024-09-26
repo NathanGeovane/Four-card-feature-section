@@ -106,7 +106,7 @@ body {
 
 .features__title span {
   display: block;
-  color: var(--clr-neutral-300);
+  color: var(--clr-neutral-800);
   font-weight: var(--fw-light);
 }
 
