@@ -182,6 +182,7 @@ footer {
   }
   .card {
     max-width: 37rem;
+    min-height: 25rem;
     padding: 3rem;
   }
   .card--1 {
